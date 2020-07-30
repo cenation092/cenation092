@@ -31,16 +31,16 @@
 
 ### Show some ❤️ by starring some of my repositories!
 
-<style>
+<a href="https://www.codechef.com/users/cenation092" style="color: black" ><img src="codechef.png" height="80" width="80" ></a>
+          
+<a href="https://www.hackerrank.com/cenation092?hr_r=1" style="color: black"><img src="hackerrank.png" height="80" width="80" ></a>
 
-.flex-container > div {
-  background-color: white;
-  margin: 10px;
-  padding: 8px;
-  font-size: 15px;
-}
+<a href="https://www.hackerearth.com/@cenation092" style="color: black"><img src="hackerearth.png" height="80" width="80" ></a>
 
-</style>
-<div class="flex-container">
-<a href="https://www.codechef.com/users/cenation092" style="color: black" ><img src="codechef.png" alt="Responsive image" height="90" width="90" >CodeChef</a>
-</div>
+<a href="https://www.spoj.com/users/cenation092/" style="color: black"><img src="spoj.png" height="80" width="80" ></a>
+
+<a href="https://codeforces.com/profile/last_death" style="color: black"><img src="codeforces1.png" height="80" width="80" ></a>
+
+<a href="https://icpc.baylor.edu/ICPCID/SCJERP75UFMP" style="color: black"><img src="acm.jpeg" height="80" width="80" ></a>
+
+<a href="https://www.interviewbit.com/profile/mohit-rai" style="color: black"><img src="interview.jpeg" height="80" width="80" ></a>
