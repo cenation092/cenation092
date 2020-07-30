@@ -31,9 +31,4 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
-<a title="github profile" class="fa fa-github w3-hover-text-black pr-2 pl-2" href="https://github.com/cenation092"  style="color: black"></a>
-    <a title="youtube profile" class="fa fa-youtube-play w3-hover-text-black pr-2 pl-2 " href="https://www.youtube.com/c/Gocode/" style="color:rgb(237, 56, 51)"></a>
-    <a title="linkedin profile" class="fa fa-linkedin-square w3-hover-text-black  pr-2 pl-2" href="https://www.linkedin.com/in/mohit-rai-4aa576167/" style="color: rgb(40, 119, 181)"></a>
-    <a title="quora profile" class="fa fa-quora w3-hover-text-black pr-2 pl-2" href="https://www.quora.com/profile/Mohit-Rai-41"  style="color: rgb(185, 43, 39)"></a>
-    <a title="instagram profile" class="fa fa-instagram w3-hover-text-black pr-2 pl-2 " href="https://www.instagram.com/mohitrai092/" style="color:rgb(202, 61, 153)"></a>
-    <a title="facebook profile" class="fa fa-facebook-square w3-hover-text-black pr-2 ml-2" href="https://www.facebook.com/cenation092" style="color:rgb(66, 103, 178)"></a>
+<a href="https://www.codechef.com/users/cenation092" style="color: black" ><img src="codechef.png" alt="Responsive image" height="10" width="90" >CodeChef</a>
