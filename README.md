@@ -29,6 +29,18 @@
 - 📫 How to reach me: [cenation092@gmail.com](mailto:cenation092@gmail.com)
 - 🔗 My Blog: [Journey With DP](http://journeywithdp.blogspot.com/)
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my repositories!
 
+<style>
+
+.flex-container > div {
+  background-color: white;
+  margin: 10px;
+  padding: 8px;
+  font-size: 15px;
+}
+
+</style>
+<div class="flex-container">
 <a href="https://www.codechef.com/users/cenation092" style="color: black" ><img src="codechef.png" alt="Responsive image" height="90" width="90" >CodeChef</a>
+</div>
