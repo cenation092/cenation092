@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 <a href="https://www.quora.com/profile/Mohit-Rai-41">
   <img align="left" alt="Mohit Rai | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
+<a href="https://www.facebook.com/cenation092">
+  <img align="left" alt="Mohit Rai | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <br/>
 <br/>
@@ -41,7 +44,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as SDE at [Zeta](https://www.zeta.tech/);
 - 🌱 I’m currently learning Java8, Spring;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: We have two universal languages: mathematics 🧮, and music 🎼. One to describe the universe, and one to describe how we feel about it;
 - 📫 How to reach me: [cenation092@gmail.com](mailto:cenation092@gmail.com);
 - 🔗 My Blog: [http://journeywithdp.blogspot.com/](http://journeywithdp.blogspot.com/);
 
