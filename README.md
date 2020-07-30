@@ -23,7 +23,8 @@
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working as SDE at Zeta India and running a YouTube channel [Go code](https://www.youtube.com/c/Gocode/).
+- 🔭 I’m currently working as SDE at Zeta India and</br>
+     running a YouTube channel [Go code](https://www.youtube.com/c/Gocode/).
 - 🌱 I’m currently learning Java8, Spring.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [cenation092@gmail.com](mailto:cenation092@gmail.com).
