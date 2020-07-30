@@ -38,12 +38,12 @@ Here are some ideas to get you started:
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working as SDE at Zeta.(https://www.zeta.tech/);
+- 🔭 I’m currently working as SDE at [Zeta](https://www.zeta.tech/);
 - 🌱 I’m currently learning Java8, Spring;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: We have two universal languages: mathematics 🧮, and music 🎼. One to describe the universe, and one to describe how we feel about it;
 - 📫 How to reach me: [cenation092@gmail.com](mailto:cenation092@gmail.com);
-- 🔗 My Blog: [http://journeywithdp.blogspot.com/](http://journeywithdp.blogspot.com/)
+- 🔗 My Blog: [http://journeywithdp.blogspot.com/](http://journeywithdp.blogspot.com/);
 
 ### Show some ❤️ by starring some of the repositories!
 
