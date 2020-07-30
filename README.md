@@ -31,4 +31,4 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
-<a href="https://www.codechef.com/users/cenation092" style="color: black" ><img src="codechef.png" alt="Responsive image" height="10" width="90" >CodeChef</a>
+<a href="https://www.codechef.com/users/cenation092" style="color: black" ><img src="codechef.png" alt="Responsive image" height="90" width="90" >CodeChef</a>
