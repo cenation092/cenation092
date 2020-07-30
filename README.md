@@ -24,11 +24,11 @@
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working as SDE at [Zeta](https://www.zeta.tech/);
-- 🌱 I’m currently learning Java8, Spring;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [cenation092@gmail.com](mailto:cenation092@gmail.com);
-- 🔗 My Blog: [http://journeywithdp.blogspot.com/](http://journeywithdp.blogspot.com/);
+- 🔭 I’m currently working as SDE at [Zeta](https://www.zeta.tech/)
+- 🌱 I’m currently learning Java8, Spring
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [cenation092@gmail.com](mailto:cenation092@gmail.com)
+- 🔗 My Blog: [Journey With DP](http://journeywithdp.blogspot.com/)
 
 ### Show some ❤️ by starring some of the repositories!
 
