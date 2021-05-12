@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/mohitrai092/">
   <img align="left" alt="Mohit's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/mohitra80164204">
+<a href="https://twitter.com/Go_c0de>
   <img align="left" alt="Mohit Rai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.quora.com/profile/Mohit-Rai-41">
