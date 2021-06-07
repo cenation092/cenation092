@@ -24,7 +24,7 @@
 **Talking about Personal Stuff:**
 
 - 🔭 I’m currently running a YouTube channel [Go code](https://www.youtube.com/c/Gocode/).
-- 🌱 I’m currently learning Java8, Spring.
+- 🌱 I’m currently learning how to learn.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: [cenation092@gmail.com](mailto:cenation092@gmail.com).
 - 🔗 My Blog: [Journey With DP](http://journeywithdp.blogspot.com/).
