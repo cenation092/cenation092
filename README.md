@@ -12,7 +12,7 @@
 <a href="https://www.quora.com/profile/Mohit-Rai-41">
   <img align="left" alt="Mohit Rai | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a>
-<a href="https://www.facebook.com/cenation092">
+<a href="https://www.facebook.com/profile.php?id=100086684453540">
   <img align="left" alt="Mohit Rai | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
