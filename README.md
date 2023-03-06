@@ -15,6 +15,9 @@
 <a href="https://www.facebook.com/profile.php?id=100086684453540">
   <img align="left" alt="Mohit Rai | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.youtube.com/Gocode">
+  <img align="left" alt="Mohit Rai | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
 <br/>
 
